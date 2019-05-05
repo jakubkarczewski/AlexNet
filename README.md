@@ -4,7 +4,7 @@ This repository contains implementation of AlexNet architecutre in Tensorflow, P
 
 The script trains the network from scratch on Imagenet data (I used 60 gb version).
 
-Networks architecture (may differ slightly):
+Network architecture:
 
 ![alt text](https://github.com/jakubkarczewski/AlexNet/blob/master/alexnet_arch.png)
 
